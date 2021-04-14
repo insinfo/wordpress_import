@@ -1,0 +1,17 @@
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\bin\Debug\WordpressImport.exe.config
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\bin\Debug\WordpressImport.exe
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\bin\Debug\WordpressImport.pdb
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.csprojResolveAssemblyReference.cache
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\MainWindow.g.cs
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\App.g.cs
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport_MarkupCompile.cache
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport_MarkupCompile.lref
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\MainWindow.baml
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.g.resources
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.Properties.Resources.resources
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.csproj.GenerateResource.Cache
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.csproj.CoreCompileInputs.cache
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.exe
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\obj\Debug\WordpressImport.pdb
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\bin\Debug\ExcelDataReader.dll
+C:\MyProjectsCSharp\WordpressImport\WordpressImport\bin\Debug\ExcelDataReader.xml

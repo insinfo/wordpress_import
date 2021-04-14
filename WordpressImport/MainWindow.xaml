@@ -1,0 +1,15 @@
+﻿<Window x:Class="WordpressImport.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WordpressImport"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="389.548" Width="697.034" Background="#FF292929" Foreground="White">
+    <Grid Background="#FF292929">
+        <Button x:Name="BtnGenFile" Content="Generate" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="108" Height="39" Background="#FF686868" BorderBrush="{x:Null}" Foreground="White" Click="BtnGenFile_Click"/>
+        <Button x:Name="BtnInputFile" Content="Select CSV File" HorizontalAlignment="Left" Margin="131,10,0,0" VerticalAlignment="Top" Width="108" Height="39" Background="#FF686868" BorderBrush="{x:Null}" Foreground="White" Click="BtnInputFile_Click"/>
+        <TextBox x:Name="TextBoxLogOut"  HorizontalAlignment="Left" Height="282" Margin="10,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="669" RenderTransformOrigin="0.253,0.442" Background="#FF252836" BorderBrush="{x:Null}" Foreground="White"/>
+
+    </Grid>
+</Window>
